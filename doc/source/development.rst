@@ -60,7 +60,7 @@ For Ubuntu, run the following commands:
   sudo apt-get update
   sudo apt-get install -y build-essential curl unzip psmisc
 
-  pip install cython==0.29.0 pytest
+  pip install cython==0.29.15 pytest
 
 For MacOS, run the following commands:
 
@@ -69,7 +69,7 @@ For MacOS, run the following commands:
   brew update
   brew install wget
 
-  pip install cython==0.29.0 pytest
+  pip install cython==0.29.15 pytest
 
 Ray can be built from the repository as follows.
 
