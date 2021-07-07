@@ -430,7 +430,7 @@ numpy==1.19.5
     #   transformers
     #   xgboost
     #   zoopt
-oauthlib==3.1.0
+oauthlib==3.1.1
     # via requests-oauthlib
 opencv-python==4.5.1.48
     # via
