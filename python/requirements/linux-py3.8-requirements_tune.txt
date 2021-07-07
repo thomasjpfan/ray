@@ -478,7 +478,7 @@ prometheus-client==0.9.0
     #   -c ../requirements.txt
     #   notebook
     #   prometheus-flask-exporter
-prometheus-flask-exporter==0.18.1
+prometheus-flask-exporter==0.18.2
     # via mlflow
 promise==2.3
     # via wandb
